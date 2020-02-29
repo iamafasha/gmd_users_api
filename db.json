@@ -1,11 +1,8 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "hello"
+      "Name": "Afasha"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }

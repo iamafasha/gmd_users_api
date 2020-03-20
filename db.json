@@ -23,20 +23,20 @@
   ],
  "roles":[
     {
-      id: 1,
-      name: "Admin"
+      "id": 1,
+      "name": "Admin"
     },
     {
-      id: 2,
-      name: "Hub Manager"
+      "id": 2,
+      "name": "Hub Manager"
     },
     {
-      id: 3,
-      name: "Suplier"
+      "id": 3,
+      "name": "Suplier"
     },
     {
-      id: 4,
-      name: "Loader"
+      "id": 4,
+      "name": "Loader"
     }
   ]
 }

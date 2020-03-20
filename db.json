@@ -1,5 +1,14 @@
 {
   "users": [
-    
+    {
+      "id":"1",
+      "firstName": "Isakiye",
+      "secondName": "Afasha",
+      "email": "afashaisakiye@live.com",
+      "phone": "256783062777",
+      "accountType": "1",
+      "companyName": "Linearc",
+      "companyDomain": "www.linearc.co.ug"
+    }
   ]
 }

@@ -2,6 +2,14 @@
   "users": [
     {
       "id":1,
+      "firstName": "Mirembe",
+      "secondName": "Pheobe",
+      "email": "phoebemire@gmail.com",
+      "phone": "+256 783461600",
+      "accountType": 1
+    },
+    {
+      "id":1,
       "firstName": "Isakiye",
       "secondName": "Afasha",
       "email": "afashaisakiye@live.com",

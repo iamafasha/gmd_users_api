@@ -9,17 +9,15 @@
       "accountType": 1
     },
     {
-      "id":1,
+      "id":2,
       "firstName": "Isakiye",
       "secondName": "Afasha",
       "email": "afashaisakiye@live.com",
       "phone": "256783062777",
-      "accountType": 2,
-      "companyName": "Linearc",
-      "companyDomain": "www.linearc.co.ug"
+      "accountType": 2
     },
     {
-      "id":2,
+      "id":3,
       "firstName": "Ssonko",
       "secondName": "Najibu",
       "email": "najiburil@gmail.com",
@@ -27,6 +25,14 @@
       "accountType": 3,
       "companyName": "Jumia Uganda",
       "companyDomain": "www.jumia.co.ug"
+    },
+    {
+      "id":4,
+      "firstName": "Nsubuga",
+      "secondName": "Hammis",
+      "email": "nsubuga@gmail.com",
+      "phone": "256782954344",
+      "accountType": 4
     }
   ],
  "roles":[
@@ -45,6 +51,28 @@
     {
       "id": 4,
       "name": "Loader"
+    }
+  ],
+  "auth":[
+    {
+      "id":1,
+      "pass":"test",
+      "auth_token":"344444444454dsfdsg43543dfgvdfhdfh3473474374373ftr5645645"
+    },
+    {
+      "id":2,
+      "pass":"test",
+      "auth_token":"rhrrh34634gerht575685jntr547547bh734734tr75474634432geshre6345347"
+    },
+    {
+      "id":3,
+      "pass":"test",
+      "auth_token":"dfsgvdrfehfergre5645634_ghmkgyuuyky7564634yerher54754743576347"
+    },
+    {
+      "id":4,
+      "pass":"test",
+      "auth_token":"cxvbdgfkrtyyldfhnerdftjkmtfgrkmtytasfgwsehrderjhrtjrfdjre"
     }
   ]
 }

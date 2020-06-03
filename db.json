@@ -88,7 +88,77 @@
       "weight":0.5,
       "decription":"Hello am package one take me somewhere",
       "name":"Pizaa to piza Heart",
-      "labels":[2,3,6,4,8,4,0,8,5]
+      "labels":[2,3,6,4,8,4,0,8,5],
+      "destination":{
+        "longitude":434345345345,
+        "latitude":4309439349,
+        "name":"Kawempe Tulla Road"
+    }
   }
-  ]
+  ],
+"package_types":[
+  {
+    "id":1,
+    "name":"Envelope"
+},
+{
+    "id":2,
+    "name":"Pacel"
+},{
+    "id":3,
+    "name":"Soft Package"
+},{
+    "id":4,
+    "name":"Air"
+},{
+    "id":5,
+    "name":"Freezed"
+}
+],
+"package_status":[
+  {
+    "id":1,
+    "display_name":"DRAFTS",
+    "decription":"Package Made by supllier but not ready for shipping",
+    "access_level":[2]
+},
+{
+    "id":2,
+    "display_name":"WITH SUPLIER",
+    "decription":"Package ready to ship to green mile",
+    "access_level":[1,2]
+},
+{
+    "id":3,
+    "display_name":"AT GREEN MILE HUB",
+    "decription":"Package that has arrived at hub and ready to be bundled",
+    "access_level":[1,2]
+},
+{
+    "id":4,
+    "display_name":"REBUNDLING",
+    "decription":"Package recieved by loader or even being rebundled",
+    "access_level":[1,2]
+},
+{
+    "id":5,
+    "display_name":"ON FLEET",
+    "decription":"Package put on Electric Car to the receiver",
+    "access_level":[1,2]
+},
+{
+    "id":6,
+    "display_name":"DELIVERED",
+    "decription":"Package recived by customer",
+    "access_level":[1,2]
+}
+,
+{
+    "id":7,
+    "display_name":"RETURNED",
+    "decription":"Package returned by customer",
+    "access_level":[1,2]
+}
+]
+
 }

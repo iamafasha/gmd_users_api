@@ -49,7 +49,7 @@
     {
       "id": 3,
       "name": "Suplier",
-      "page_access_level":["/packages","/dashboard","/"]
+      "page_access_level":["/packages","/payment","/dashboard","/"]
     },
     {
       "id": 4,

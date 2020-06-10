@@ -39,22 +39,22 @@
     {
       "id": 1,
       "name": "Admin",
-      "page_access_level":["/users","/users/add","/hubs","/packages","/dashboard","/"]
+      "page_access_level":["/users","/users/add","/hubs","/packages","/"]
     },
     {
       "id": 2,
       "name": "Hub Manager",
-      "page_access_level":["/users","/hubs","/packages","/dashboard","/"]
+      "page_access_level":["/users","/hubs","/packages","/"]
     },
     {
       "id": 3,
       "name": "Suplier",
-      "page_access_level":["/packages","/payment","/dashboard","/"]
+      "page_access_level":["/packages","/payment","/"]
     },
     {
       "id": 4,
       "name": "Loader",
-      "page_access_level":["/packages","/dashboard","/"]
+      "page_access_level":["/packages","/"]
     }
   ],
   "auth":[

@@ -38,19 +38,23 @@
  "roles":[
     {
       "id": 1,
-      "name": "Admin"
+      "name": "Admin",
+      "page_access_level":["/users","/users/add","/hubs","/packages","/dashboard","/"]
     },
     {
       "id": 2,
-      "name": "Hub Manager"
+      "name": "Hub Manager",
+      "page_access_level":["/users","/hubs","/packages","/dashboard","/"]
     },
     {
       "id": 3,
-      "name": "Suplier"
+      "name": "Suplier",
+      "page_access_level":["/packages","/dashboard","/"]
     },
     {
       "id": 4,
-      "name": "Loader"
+      "name": "Loader",
+      "page_access_level":["/packages","/dashboard","/"]
     }
   ],
   "auth":[
